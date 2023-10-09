@@ -9,11 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@sanity/client": "^6.4.12",
     "@sanity/image-url": "^1.0.2",
     "next": "13.5.4",
     "next-sanity": "^5.5.5",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-hook-form": "^7.47.0",
+    "react-portable-text": "^0.6.0"
   },
   "devDependencies": {
     "@types/node": "^20",
